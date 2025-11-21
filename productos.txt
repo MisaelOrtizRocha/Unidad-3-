@@ -1,0 +1,5 @@
+555646|Sup. Vitamina B12|300|Suplementos
+56466|Barra Energetica|30|Snacks
+5669|Barra de proteina|50|Snacks
+878978|Te verde detox|50|Bebidas
+885|Guia alimenticia|150|Dieta
